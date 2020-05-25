@@ -1,0 +1,1494 @@
+pricePerNight,nbChambres,city,zipCode,nbSallesDeBain,Date,piscine,id
+176,3,sainte marie de re,,,30/06/2020,False,40748352
+437,3,le bois plage en re,,3,30/06/2020,False,16857198
+340,3,saint martin de re,,1,30/06/2020,False,22405941
+430,3,le bois plage en re,,,30/06/2020,False,33873734
+304,3,sainte marie de re,,1,30/06/2020,False,18204197
+264,4,la couarde sur mer,,,30/06/2020,False,24008036
+375,3,sainte marie de re,,,30/06/2020,False,12976498
+444,4,rivedoux plage,,,30/06/2020,False,30524192
+277,4,,,,30/06/2020,False,40391657
+180,3,la rochelle,,1,30/06/2020,False,42980317
+303,3,la couarde sur mer,,,30/06/2020,False,33822917
+472,4,,,,30/06/2020,False,20782074
+216,4,la rochelle,,,30/06/2020,False,7447043
+340,4,sainte marie de re,,,30/06/2020,False,19850715
+589,5,sainte marie de re,,3,30/06/2020,False,42172687
+610,4,la flotte,,,30/06/2020,False,12734232
+881,6,saint martin de re,,5,30/06/2020,False,20600612
+727,5,le bois plage en re,,5,30/06/2020,False,36853426
+560,4,l houmeau,,5,30/06/2020,False,42241508
+589,5,sainte marie de re,,3,30/06/2020,False,38963748
+589,5,sainte marie de re,,3,30/06/2020,False,38963748
+410,4,sainte marie de re,,3,30/06/2020,False,12962979
+213,3,la couarde sur mer,,1,30/06/2020,False,18485059
+503,0,sainte marie de re,,3,30/06/2020,False,42164842
+264,4,la couarde sur mer,,,30/06/2020,False,24008036
+384,4,,,,30/06/2020,False,5944906
+727,5,le bois plage en re,,5,30/06/2020,False,36853426
+437,4,nieul sur mer,,,30/06/2020,False,26432823
+898,4,sainte marie de re,,5,30/06/2020,False,1211378
+493,4,le bois plage en re,,5,30/06/2020,False,32300208
+508,5,rivedoux plage,,3,30/06/2020,False,40198678
+396,5,la rochelle,,5,30/06/2020,False,14455346
+471,4,le bois plage en re,,4,30/06/2020,False,21269304
+303,3,la rochelle,,1,30/06/2020,False,34005373
+829,5,la flotte,,4,30/06/2020,False,26211665
+308,4,,,,30/06/2020,False,43318262
+391,3,rivedoux plage,,,30/06/2020,False,12256043
+635,6,rivedoux plage,,4,30/06/2020,False,6235071
+713,5,ars en re,,5,30/06/2020,False,23315373
+"1,170",5,ars en re,,5,30/06/2020,False,43315881
+441,5,loix,,5,30/06/2020,False,16119699
+835,4,rivedoux plage,,3,30/06/2020,False,42881478
+690,4,la couarde sur mer,,,30/06/2020,False,41545453
+595,3,la flotte,,,30/06/2020,False,13561680
+787,4,sainte marie de re,,4,30/06/2020,False,23621860
+649,4,loix,,3,30/06/2020,False,979153
+421,5,sainte marie de re,,3,30/06/2020,False,26373652
+652,6,rivedoux plage,,3,30/06/2020,False,4945576
+619,3,loix,,5,30/06/2020,False,15925057
+949,6,la couarde sur mer,,3,30/06/2020,False,40408890
+482,4,le bois plage en re,,,30/06/2020,False,42995578
+435,4,sainte marie de re,,3,30/06/2020,False,16573701
+658,3,le bois plage en re,,,30/06/2020,False,39211506
+421,3,sainte marie de re,,1,30/06/2020,False,15862832
+727,4,le bois plage en re,,4,30/06/2020,False,16119700
+837,5,la couarde sur mer,,3,30/06/2020,False,1358373
+702,5,rivedoux plage,,5,30/06/2020,False,6817965
+544,3,la couarde sur mer,,,30/06/2020,False,1275210
+340,3,saint martin de re,,1,07/07/2020,False,22405941
+479,3,le bois plage en re,,,07/07/2020,False,33873734
+353,3,rivedoux plage,,,07/07/2020,False,34416903
+456,4,rivedoux plage,,,07/07/2020,False,30524192
+363,3,la couarde sur mer,,,07/07/2020,False,33822917
+458,3,sainte marie de re,,,07/07/2020,False,12976498
+227,3,sainte marie de re,,,07/07/2020,False,31029748
+684,6,saint martin de re,,5,07/07/2020,False,21728129
+761,5,le bois plage en re,,5,07/07/2020,False,36853426
+540,3,la flotte,,,07/07/2020,False,42728576
+881,6,saint martin de re,,5,07/07/2020,False,20600612
+419,3,loix,,,07/07/2020,False,23892072
+365,4,sainte marie de re,,,07/07/2020,False,17216257
+466,4,sainte marie de re,,,07/07/2020,False,19850715
+503,0,sainte marie de re,,3,07/07/2020,False,42164842
+309,3,sainte marie de re,,,07/07/2020,False,1196922
+391,3,rivedoux plage,,,07/07/2020,False,12256043
+"1,006",6,le bois plage en re,,5,07/07/2020,False,18305081
+396,3,sainte marie de re,,3,07/07/2020,False,28533702
+473,3,sainte marie de re,,,07/07/2020,False,3232178
+279,3,la couarde sur mer,,1,07/07/2020,False,18485059
+983,6,le bois plage en re,,5,07/07/2020,False,3136842
+598,5,rivedoux plage,,,07/07/2020,False,31922291
+486,3,sainte marie de re,,,07/07/2020,False,22781676
+"1,521",6,sainte marie de re,,6,07/07/2020,False,35798765
+248,3,rivedoux plage,,1,07/07/2020,False,42725522
+720,4,le bois plage en re,,,07/07/2020,False,13507125
+248,3,rivedoux plage,,1,07/07/2020,False,41807117
+468,4,sainte marie de re,,,07/07/2020,False,25654302
+710,4,la flotte,,3,07/07/2020,False,41956735
+946,5,sainte marie de re,,3,07/07/2020,False,29669043
+685,5,la flotte,,5,07/07/2020,False,19253609
+761,5,sainte marie de re,,,07/07/2020,False,36513210
+248,3,rivedoux plage,,1,07/07/2020,False,42216319
+708,4,la couarde sur mer,,,07/07/2020,False,41545453
+515,5,loix,,5,07/07/2020,False,16119699
+514,3,sainte marie de re,,,07/07/2020,False,41898522
+248,3,rivedoux plage,,1,07/07/2020,False,42885442
+619,3,la flotte,,,07/07/2020,False,13561680
+776,4,la flotte,,3,07/07/2020,False,21724525
+126,2,la rochelle,,1,07/07/2020,False,6311668
+685,5,la flotte,,5,07/07/2020,False,19253609
+761,5,sainte marie de re,,,07/07/2020,False,36513210
+248,3,rivedoux plage,,1,07/07/2020,False,42216319
+708,4,la couarde sur mer,,,07/07/2020,False,41545453
+245,3,l houmeau,,3,07/07/2020,False,35454487
+97,2,la rochelle,,1,07/07/2020,False,42261111
+123,2,la rochelle,,1,07/07/2020,False,32411765
+514,3,sainte marie de re,,,07/07/2020,False,41898522
+515,5,loix,,5,07/07/2020,False,16119699
+619,3,la flotte,,,07/07/2020,False,13561680
+248,3,rivedoux plage,,1,07/07/2020,False,42885442
+480,5,rivedoux plage,,,07/07/2020,False,16172560
+776,4,la flotte,,3,07/07/2020,False,21724525
+835,4,rivedoux plage,,3,07/07/2020,False,42881478
+482,4,le bois plage en re,,,07/07/2020,False,42995578
+685,6,rivedoux plage,,3,07/07/2020,False,4945576
+677,4,loix,,3,07/07/2020,False,979153
+355,3,l houmeau,,4,07/07/2020,False,34859421
+644,3,loix,,5,07/07/2020,False,15925057
+686,5,,,3,07/07/2020,False,31428953
+97,2,la rochelle,,1,07/07/2020,False,42261111
+123,2,la rochelle,,1,07/07/2020,False,32411765
+514,3,sainte marie de re,,,07/07/2020,False,41898522
+515,5,loix,,5,07/07/2020,False,16119699
+248,3,rivedoux plage,,1,07/07/2020,False,42885442
+209,3,,,,07/07/2020,False,34823568
+619,3,la flotte,,,07/07/2020,False,13561680
+480,5,rivedoux plage,,,07/07/2020,False,16172560
+776,4,la flotte,,3,07/07/2020,False,21724525
+835,4,rivedoux plage,,3,07/07/2020,False,42881478
+482,4,le bois plage en re,,,07/07/2020,False,42995578
+719,4,lagord,,,07/07/2020,False,32510158
+685,6,rivedoux plage,,3,07/07/2020,False,4945576
+264,4,,,,07/07/2020,False,23457803
+677,4,loix,,3,07/07/2020,False,979153
+"1,030",4,,,,07/07/2020,False,43029957
+355,3,l houmeau,,4,07/07/2020,False,34859421
+644,3,loix,,5,07/07/2020,False,15925057
+259,3,,,3,07/07/2020,False,19713453
+456,4,rivedoux plage,,,14/07/2020,False,30524192
+531,3,le bois plage en re,,,14/07/2020,False,33873734
+186,3,la rochelle,,1,14/07/2020,False,42980317
+542,3,sainte marie de re,,,14/07/2020,False,12976498
+684,6,saint martin de re,,5,14/07/2020,False,21728129
+761,5,le bois plage en re,,5,14/07/2020,False,36853426
+881,6,saint martin de re,,5,14/07/2020,False,20600612
+227,3,sainte marie de re,,,14/07/2020,False,31029748
+365,4,sainte marie de re,,,14/07/2020,False,17216257
+107,2,la rochelle,,1,14/07/2020,False,2220410
+320,4,la rochelle,,1,14/07/2020,False,34895735
+437,4,nieul sur mer,,,14/07/2020,False,26432823
+466,4,sainte marie de re,,,14/07/2020,False,19850715
+246,4,la rochelle,,,14/07/2020,False,14794504
+309,3,sainte marie de re,,,14/07/2020,False,1196922
+416,4,rivedoux plage,,,14/07/2020,False,13397150
+659,5,la rochelle,,4,14/07/2020,False,33647651
+540,3,rivedoux plage,,3,14/07/2020,False,33343343
+279,3,la couarde sur mer,,1,14/07/2020,False,18485059
+488,5,sainte marie de re,,5,14/07/2020,False,28240132
+246,4,la rochelle,,,14/07/2020,False,14794504
+"1,521",6,sainte marie de re,,6,14/07/2020,False,35798765
+488,5,sainte marie de re,,5,14/07/2020,False,28240132
+983,6,le bois plage en re,,5,14/07/2020,False,3136842
+685,5,la flotte,,5,14/07/2020,False,19253609
+659,5,la rochelle,,4,14/07/2020,False,33647651
+245,3,l houmeau,,3,14/07/2020,False,35454487
+710,4,la flotte,,3,14/07/2020,False,41956735
+720,4,le bois plage en re,,,14/07/2020,False,13507125
+152,2,la rochelle,,1,14/07/2020,False,6311668
+681,5,rivedoux plage,,,14/07/2020,False,31922291
+248,3,rivedoux plage,,1,14/07/2020,False,41807117
+514,3,sainte marie de re,,,14/07/2020,False,41898522
+311,3,la rochelle,,,14/07/2020,False,16317728
+634,4,la rochelle,,3,14/07/2020,False,31679853
+548,3,sainte marie de re,,,14/07/2020,False,3232178
+248,3,rivedoux plage,,1,14/07/2020,False,42885442
+731,4,la couarde sur mer,,,14/07/2020,False,41545453
+248,3,rivedoux plage,,1,14/07/2020,False,42725522
+835,4,rivedoux plage,,3,14/07/2020,False,42881478
+540,5,loix,,5,14/07/2020,False,16119699
+245,3,l houmeau,,3,14/07/2020,False,35454487
+97,2,la rochelle,,1,14/07/2020,False,42261111
+123,2,la rochelle,,1,14/07/2020,False,32411765
+248,3,rivedoux plage,,1,14/07/2020,False,42885442
+685,6,rivedoux plage,,3,14/07/2020,False,4945576
+835,4,rivedoux plage,,3,14/07/2020,False,42881478
+355,3,l houmeau,,4,14/07/2020,False,34859421
+644,3,loix,,5,14/07/2020,False,15925057
+715,4,loix,,3,14/07/2020,False,979153
+889,4,loix,,3,14/07/2020,False,41521049
+259,3,,,3,14/07/2020,False,19713453
+"1,044",6,la couarde sur mer,,3,14/07/2020,False,40408890
+405,6,la rochelle,,3,14/07/2020,False,5292216
+547,5,rivedoux plage,,3,14/07/2020,False,40771751
+778,3,le bois plage en re,,,14/07/2020,False,39211506
+311,3,la rochelle,,,14/07/2020,False,2050360
+849,5,la couarde sur mer,,3,14/07/2020,False,1358373
+"1,420",6,rivedoux plage,,5,14/07/2020,False,24168343
+421,3,sainte marie de re,,1,14/07/2020,False,15862832
+849,5,la couarde sur mer,,3,14/07/2020,False,1358373
+784,4,le bois plage en re,,4,14/07/2020,False,16119700
+544,3,la couarde sur mer,,,14/07/2020,False,1275210
+207,2,l houmeau,,1,14/07/2020,False,25839222
+189,3,la rochelle,,1,21/07/2020,False,42980317
+684,6,saint martin de re,,5,21/07/2020,False,21728129
+881,6,saint martin de re,,5,21/07/2020,False,20600612
+365,4,sainte marie de re,,,21/07/2020,False,17216257
+560,4,le bois plage en re,,5,21/07/2020,False,32300208
+437,4,nieul sur mer,,,21/07/2020,False,26432823
+320,4,la rochelle,,1,21/07/2020,False,34895735
+246,4,la rochelle,,,21/07/2020,False,14794504
+279,3,la couarde sur mer,,1,21/07/2020,False,18485059
+685,5,la flotte,,5,21/07/2020,False,19253609
+530,3,rivedoux plage,,3,21/07/2020,False,33343343
+488,5,sainte marie de re,,5,21/07/2020,False,28240132
+552,3,le bois plage en re,,,21/07/2020,False,15844141
+983,6,le bois plage en re,,5,21/07/2020,False,3136842
+123,2,la rochelle,,1,21/07/2020,False,32411765
+720,4,le bois plage en re,,,21/07/2020,False,13507125
+260,3,rivedoux plage,,1,21/07/2020,False,42725522
+548,3,sainte marie de re,,,21/07/2020,False,3232178
+260,3,rivedoux plage,,1,21/07/2020,False,41807117
+311,3,la rochelle,,,21/07/2020,False,16317728
+625,4,la rochelle,,3,21/07/2020,False,31679853
+260,3,rivedoux plage,,1,21/07/2020,False,41807117
+123,2,la rochelle,,1,21/07/2020,False,32411765
+260,3,rivedoux plage,,1,21/07/2020,False,42885442
+835,4,rivedoux plage,,3,21/07/2020,False,42881478
+647,4,sainte marie de re,,,21/07/2020,False,25654302
+355,3,l houmeau,,4,21/07/2020,False,34859421
+260,3,rivedoux plage,,1,21/07/2020,False,42725522
+97,2,la rochelle,,1,21/07/2020,False,42261111
+715,4,loix,,3,21/07/2020,False,979153
+260,3,rivedoux plage,,1,21/07/2020,False,42216319
+644,3,loix,,5,21/07/2020,False,15925057
+573,5,loix,,5,21/07/2020,False,16119699
+97,2,la rochelle,,1,21/07/2020,False,25743304
+259,3,,,3,21/07/2020,False,19713453
+761,5,sainte marie de re,,,21/07/2020,False,36513210
+"1,621",8,la flotte,,5,21/07/2020,False,28909955
+470,5,sainte marie de re,,3,21/07/2020,False,26373652
+819,4,le bois plage en re,,5,21/07/2020,False,7126485
+889,4,loix,,3,21/07/2020,False,41521049
+715,4,loix,,3,21/07/2020,False,979153
+264,4,,,,21/07/2020,False,23457803
+260,3,rivedoux plage,,1,21/07/2020,False,42216319
+498,4,,,,21/07/2020,False,33860869
+644,3,loix,,5,21/07/2020,False,15925057
+97,2,la rochelle,,1,21/07/2020,False,25743304
+573,5,loix,,5,21/07/2020,False,16119699
+761,5,sainte marie de re,,,21/07/2020,False,36513210
+259,3,,,3,21/07/2020,False,19713453
+"1,621",8,la flotte,,5,21/07/2020,False,28909955
+261,3,la rochelle,,,21/07/2020,False,24147504
+470,5,sainte marie de re,,3,21/07/2020,False,26373652
+819,4,le bois plage en re,,5,21/07/2020,False,7126485
+889,4,loix,,3,21/07/2020,False,41521049
+547,4,la rochelle,,3,21/07/2020,False,17679050
+719,4,lagord,,,21/07/2020,False,32510158
+685,6,rivedoux plage,,3,21/07/2020,False,4945576
+405,6,la rochelle,,3,21/07/2020,False,5292216
+857,6,la couarde sur mer,,3,21/07/2020,False,40408890
+421,3,sainte marie de re,,1,21/07/2020,False,15862832
+"1,145",5,,,4,21/07/2020,False,33548662
+311,3,la rochelle,,,21/07/2020,False,2050360
+428,4,,,,21/07/2020,False,31452798
+778,3,le bois plage en re,,,21/07/2020,False,39211506
+"1,420",6,rivedoux plage,,5,21/07/2020,False,24168343
+702,5,rivedoux plage,,5,21/07/2020,False,6817965
+421,3,sainte marie de re,,1,21/07/2020,False,15862832
+784,4,le bois plage en re,,4,21/07/2020,False,16119700
+687,5,rivedoux plage,,3,21/07/2020,False,40771751
+544,3,la couarde sur mer,,,21/07/2020,False,1275210
+207,2,l houmeau,,1,21/07/2020,False,25839222
+366,3,,,1,21/07/2020,False,31563031
+490,5,sainte marie de re,,3,28/07/2020,False,15000319
+622,3,le bois plage en re,,,28/07/2020,False,15844141
+720,4,le bois plage en re,,,28/07/2020,False,13507125
+538,5,sainte marie de re,,5,28/07/2020,False,28240132
+570,4,sainte marie de re,,,28/07/2020,False,24593561
+585,3,sainte marie de re,,,28/07/2020,False,35341885
+548,3,sainte marie de re,,,28/07/2020,False,3232178
+277,3,rivedoux plage,,1,28/07/2020,False,41807117
+835,4,rivedoux plage,,3,28/07/2020,False,42881478
+761,5,sainte marie de re,,,28/07/2020,False,36513210
+277,3,rivedoux plage,,1,28/07/2020,False,42885442
+674,5,loix,,5,28/07/2020,False,16119699
+583,3,la flotte,,,28/07/2020,False,19716374
+277,3,rivedoux plage,,1,28/07/2020,False,42725522
+277,3,rivedoux plage,,1,28/07/2020,False,42216319
+789,6,la couarde sur mer,,3,28/07/2020,False,40408890
+486,5,sainte marie de re,,3,28/07/2020,False,26373652
+735,6,rivedoux plage,,3,28/07/2020,False,4945576
+702,5,rivedoux plage,,5,28/07/2020,False,6817965
+421,3,sainte marie de re,,1,28/07/2020,False,15862832
+778,3,le bois plage en re,,,28/07/2020,False,39211506
+544,3,la couarde sur mer,,,28/07/2020,False,1275210
+784,4,le bois plage en re,,4,28/07/2020,False,16119700
+807,5,rivedoux plage,,3,28/07/2020,False,40771751
+548,3,sainte marie de re,,,04/08/2020,False,3232178
+575,3,rivedoux plage,,3,04/08/2020,False,33343343
+547,5,sainte marie de re,,5,04/08/2020,False,28240132
+720,4,le bois plage en re,,,04/08/2020,False,13507125
+570,4,sainte marie de re,,,04/08/2020,False,24593561
+563,4,rivedoux plage,,,04/08/2020,False,13397150
+599,7,nieul sur mer,,4,04/08/2020,False,20636522
+715,3,le bois plage en re,,,04/08/2020,False,15844141
+136,2,la rochelle,,1,04/08/2020,False,23713054
+97,2,la rochelle,,1,04/08/2020,False,42261111
+277,3,rivedoux plage,,1,04/08/2020,False,42725522
+166,2,la rochelle,,,04/08/2020,False,28663922
+97,2,la rochelle,,1,04/08/2020,False,25743304
+617,5,la rochelle,,,04/08/2020,False,25997381
+604,4,la rochelle,,3,04/08/2020,False,31679853
+277,3,rivedoux plage,,1,04/08/2020,False,42216319
+835,4,rivedoux plage,,3,04/08/2020,False,42881478
+405,6,la rochelle,,3,04/08/2020,False,5292216
+421,3,sainte marie de re,,1,04/08/2020,False,15862832
+569,4,l houmeau,,,04/08/2020,False,29237359
+568,4,saint martin de re,,4,11/08/2020,False,34822614
+554,4,sainte marie de re,,,11/08/2020,False,19850715
+525,3,sainte marie de re,,,11/08/2020,False,22781676
+547,5,sainte marie de re,,5,11/08/2020,False,28240132
+553,4,rivedoux plage,,,11/08/2020,False,13397150
+710,4,la flotte,,3,11/08/2020,False,41956735
+674,5,rivedoux plage,,,11/08/2020,False,31922291
+277,3,rivedoux plage,,1,11/08/2020,False,41807117
+835,4,rivedoux plage,,3,11/08/2020,False,42881478
+761,5,sainte marie de re,,,11/08/2020,False,36513210
+277,3,rivedoux plage,,1,11/08/2020,False,42885442
+277,3,rivedoux plage,,1,11/08/2020,False,42725522
+277,3,rivedoux plage,,1,11/08/2020,False,42216319
+421,3,sainte marie de re,,1,11/08/2020,False,15862832
+832,5,loix,,5,11/08/2020,False,16119699
+"1,044",6,la couarde sur mer,,3,11/08/2020,False,40408890
+544,3,la couarde sur mer,,,11/08/2020,False,1275210
+778,3,le bois plage en re,,,11/08/2020,False,39211506
+768,4,le bois plage en re,,4,11/08/2020,False,16119700
+558,4,saint martin de re,,4,18/08/2020,False,34822614
+589,4,le bois plage en re,,,18/08/2020,False,18179034
+"1,019",6,saint martin de re,,6,18/08/2020,False,33418725
+465,3,la flotte,,3,18/08/2020,False,5018017
+561,4,rivedoux plage,,4,18/08/2020,False,14888511
+700,6,sainte marie de re,,3,18/08/2020,False,19282343
+279,3,la couarde sur mer,,1,18/08/2020,False,18485059
+512,3,sainte marie de re,,,18/08/2020,False,22781676
+530,5,sainte marie de re,,5,18/08/2020,False,28240132
+710,4,la flotte,,3,18/08/2020,False,41956735
+981,6,rivedoux plage,,4,18/08/2020,False,6235071
+260,3,rivedoux plage,,1,18/08/2020,False,41807117
+674,5,rivedoux plage,,,18/08/2020,False,31922291
+661,4,saint martin de re,,3,18/08/2020,False,42292241
+835,4,rivedoux plage,,3,18/08/2020,False,42881478
+731,4,la couarde sur mer,,,18/08/2020,False,41545453
+761,5,sainte marie de re,,,18/08/2020,False,36513210
+265,3,rivedoux plage,,1,18/08/2020,False,42885442
+260,3,rivedoux plage,,1,18/08/2020,False,42725522
+669,4,sainte marie de re,,,18/08/2020,False,25654302
+260,3,rivedoux plage,,1,18/08/2020,False,42216319
+619,3,la flotte,,,18/08/2020,False,13561680
+796,6,le bois plage en re,,,18/08/2020,False,39712188
+435,4,sainte marie de re,,3,18/08/2020,False,16573701
+"1,175",6,sainte marie de re,,7,18/08/2020,False,34239481
+493,5,sainte marie de re,,3,18/08/2020,False,26373652
+632,3,la flotte,,3,18/08/2020,False,15862840
+421,3,sainte marie de re,,1,18/08/2020,False,15862832
+"1,044",6,la couarde sur mer,,3,18/08/2020,False,40408890
+778,3,le bois plage en re,,,18/08/2020,False,39211506
+727,4,le bois plage en re,,4,18/08/2020,False,16119700
+702,5,rivedoux plage,,5,18/08/2020,False,6817965
+544,3,la couarde sur mer,,,18/08/2020,False,1275210
+399,4,le bois plage en re,,,25/08/2020,False,18179034
+516,4,saint martin de re,,4,25/08/2020,False,34822614
+430,3,le bois plage en re,,3,25/08/2020,False,16857198
+554,3,le bois plage en re,,,25/08/2020,False,33873734
+343,3,le bois plage en re,,,25/08/2020,False,33759042
+264,4,la couarde sur mer,,,25/08/2020,False,24008036
+363,3,la couarde sur mer,,,25/08/2020,False,33822917
+336,3,sainte marie de re,,1,25/08/2020,False,18204197
+881,6,saint martin de re,,5,25/08/2020,False,20600612
+978,6,saint martin de re,,6,25/08/2020,False,33418725
+228,5,sainte marie de re,,3,25/08/2020,False,42855461
+517,3,le bois plage en re,,,25/08/2020,False,15844141
+503,0,sainte marie de re,,3,25/08/2020,False,42164842
+563,3,rivedoux plage,,3,25/08/2020,False,13812715
+246,3,la couarde sur mer,,1,25/08/2020,False,18485059
+465,3,la flotte,,3,25/08/2020,False,5018017
+496,4,saint martin de re,,3,25/08/2020,False,42292241
+455,5,sainte marie de re,,5,25/08/2020,False,28240132
+390,3,rivedoux plage,,,25/08/2020,False,12256043
+720,4,le bois plage en re,,,25/08/2020,False,13507125
+936,5,la flotte,,4,25/08/2020,False,26211665
+468,5,le bois plage en re,,3,25/08/2020,False,42582383
+218,3,rivedoux plage,,1,25/08/2020,False,42725522
+218,3,rivedoux plage,,1,25/08/2020,False,41807117
+674,5,rivedoux plage,,,25/08/2020,False,31922291
+710,4,la flotte,,3,25/08/2020,False,41956735
+928,6,rivedoux plage,,4,25/08/2020,False,6235071
+218,3,rivedoux plage,,1,25/08/2020,False,42216319
+761,5,sainte marie de re,,,25/08/2020,False,36513210
+229,3,rivedoux plage,,1,25/08/2020,False,42885442
+433,5,sainte marie de re,,3,25/08/2020,False,26373652
+645,3,loix,,,25/08/2020,False,23892072
+622,4,sainte marie de re,,,25/08/2020,False,25654302
+563,3,rivedoux plage,,,25/08/2020,False,30150760
+835,4,rivedoux plage,,3,25/08/2020,False,42881478
+"1,121",6,sainte marie de re,,7,25/08/2020,False,34239481
+502,6,rivedoux plage,,3,25/08/2020,False,4945576
+908,6,la couarde sur mer,,3,25/08/2020,False,40408890
+619,3,la flotte,,,25/08/2020,False,13561680
+639,4,le bois plage en re,,4,25/08/2020,False,16119700
+218,3,rivedoux plage,,1,25/08/2020,False,42216319
+335,3,la rochelle,,,25/08/2020,False,16317728
+158,2,la rochelle,,,25/08/2020,False,28663922
+761,5,sainte marie de re,,,25/08/2020,False,36513210
+128,2,la rochelle,,1,25/08/2020,False,6311668
+502,6,rivedoux plage,,3,25/08/2020,False,4945576
+617,5,la rochelle,,,25/08/2020,False,25997381
+229,3,rivedoux plage,,1,25/08/2020,False,42885442
+645,3,loix,,,25/08/2020,False,23892072
+622,4,sainte marie de re,,,25/08/2020,False,25654302
+563,3,rivedoux plage,,,25/08/2020,False,30150760
+510,4,l houmeau,,,25/08/2020,False,29237359
+835,4,rivedoux plage,,3,25/08/2020,False,42881478
+"1,121",6,sainte marie de re,,7,25/08/2020,False,34239481
+"1,093",5,nieul sur mer,,3,25/08/2020,False,20351991
+433,5,sainte marie de re,,3,25/08/2020,False,26373652
+480,5,rivedoux plage,,,25/08/2020,False,16172560
+908,6,la couarde sur mer,,3,25/08/2020,False,40408890
+619,3,la flotte,,,25/08/2020,False,13561680
+355,3,l houmeau,,4,25/08/2020,False,34859421
+761,5,sainte marie de re,,,25/08/2020,False,36513210
+622,4,sainte marie de re,,,25/08/2020,False,25654302
+617,5,la rochelle,,,25/08/2020,False,25997381
+510,4,l houmeau,,,25/08/2020,False,29237359
+355,3,l houmeau,,4,25/08/2020,False,34859421
+550,4,,,3,25/08/2020,False,35180336
+581,4,la rochelle,,3,25/08/2020,False,17679050
+"1,121",6,sainte marie de re,,7,25/08/2020,False,34239481
+"1,093",5,nieul sur mer,,3,25/08/2020,False,20351991
+502,6,rivedoux plage,,3,25/08/2020,False,4945576
+433,5,sainte marie de re,,3,25/08/2020,False,26373652
+619,3,la flotte,,,25/08/2020,False,13561680
+719,4,lagord,,,25/08/2020,False,32510158
+838,5,,,3,25/08/2020,False,1049817
+577,4,la rochelle,,,25/08/2020,False,31688375
+656,3,le bois plage en re,,,25/08/2020,False,39211506
+908,6,la couarde sur mer,,3,25/08/2020,False,40408890
+480,5,rivedoux plage,,,25/08/2020,False,16172560
+819,4,le bois plage en re,,5,25/08/2020,False,7126485
+639,4,le bois plage en re,,4,25/08/2020,False,16119700
+301,4,,,,01/09/2020,False,25288920
+410,5,le bois plage en re,,5,01/09/2020,False,36853426
+476,4,saint martin de re,,4,01/09/2020,False,34822614
+199,3,sainte marie de re,,1,01/09/2020,False,18204197
+582,4,saint martin de re,,,01/09/2020,False,12749062
+395,4,rivedoux plage,,,01/09/2020,False,30524192
+107,2,la flotte,,1,01/09/2020,False,31802574
+430,4,le bois plage en re,,3,01/09/2020,False,33127310
+599,5,saint martin de re,,5,01/09/2020,False,39050748
+382,4,saint martin de re,,3,01/09/2020,False,42292241
+485,4,la flotte,,3,01/09/2020,False,13664992
+258,3,la couarde sur mer,,,01/09/2020,False,33822917
+246,3,sainte marie de re,,,01/09/2020,False,29877465
+357,5,sainte marie de re,,,01/09/2020,False,19685590
+361,4,,,3,01/09/2020,False,26582603
+638,5,la flotte,,4,01/09/2020,False,38939476
+321,5,sainte marie de re,,3,01/09/2020,False,15000319
+236,4,la rochelle,,1,01/09/2020,False,34895735
+527,5,sainte marie de re,,3,01/09/2020,False,42172687
+621,4,sainte marie de re,,5,01/09/2020,False,32785452
+621,4,sainte marie de re,,5,01/09/2020,False,32785452
+356,3,la couarde sur mer,,,01/09/2020,False,18991672
+351,4,la flotte,,3,01/09/2020,False,36855003
+562,5,la flotte,,4,01/09/2020,False,26211665
+528,4,l houmeau,,5,01/09/2020,False,42241508
+355,3,sainte marie de re,,,01/09/2020,False,17179410
+355,4,nieul sur mer,,,01/09/2020,False,26432823
+247,3,,,3,01/09/2020,False,5302915
+328,4,la rochelle,,3,01/09/2020,False,34712442
+335,4,rivedoux plage,,3,01/09/2020,False,42709937
+294,4,,,,01/09/2020,False,40391657
+735,4,sainte marie de re,,5,01/09/2020,False,1211378
+503,0,sainte marie de re,,3,01/09/2020,False,42164842
+272,2,,,,01/09/2020,False,3278118
+162,3,la couarde sur mer,,1,01/09/2020,False,18485059
+429,3,le bois plage en re,,,01/09/2020,False,15844141
+463,4,sainte marie de re,,,01/09/2020,False,3077929
+406,4,la flotte,,3,01/09/2020,False,41956735
+331,4,l houmeau,,,01/09/2020,False,13964266
+371,5,sainte marie de re,,5,01/09/2020,False,28240132
+"1,170",7,sainte marie de re,,6,01/09/2020,False,40301127
+601,6,rivedoux plage,,4,01/09/2020,False,6235071
+298,3,rivedoux plage,,,01/09/2020,False,12256043
+463,4,sainte marie de re,,,01/09/2020,False,3077929
+503,0,sainte marie de re,,3,01/09/2020,False,42164842
+326,4,sainte marie de re,,,01/09/2020,False,6442596
+435,3,rivedoux plage,,3,01/09/2020,False,13812715
+666,5,la couarde sur mer,,5,01/09/2020,False,17337437
+301,3,sainte marie de re,,3,01/09/2020,False,28533702
+288,3,sainte marie de re,,,01/09/2020,False,41898522
+745,6,le bois plage en re,,5,01/09/2020,False,33769499
+278,5,loix,,,01/09/2020,False,8725810
+428,3,loix,,,01/09/2020,False,23892072
+328,5,loix,,5,01/09/2020,False,16119699
+234,3,rivedoux plage,,1,01/09/2020,False,41807117
+234,3,rivedoux plage,,1,01/09/2020,False,42885442
+234,3,rivedoux plage,,1,01/09/2020,False,42725522
+438,4,loix,,3,01/09/2020,False,3007671
+527,5,sainte marie de re,,,01/09/2020,False,36513210
+234,3,rivedoux plage,,1,01/09/2020,False,42216319
+288,3,sainte marie de re,,,01/09/2020,False,41898522
+745,6,le bois plage en re,,5,01/09/2020,False,33769499
+403,4,nieul sur mer,,3,01/09/2020,False,20423674
+764,5,la rochelle,,4,01/09/2020,False,27774687
+428,3,loix,,,01/09/2020,False,23892072
+278,5,loix,,,01/09/2020,False,8725810
+415,5,nieul sur mer,,3,01/09/2020,False,20351991
+328,5,loix,,5,01/09/2020,False,16119699
+460,5,nieul sur mer,,,01/09/2020,False,6411451
+438,4,loix,,3,01/09/2020,False,3007671
+234,3,rivedoux plage,,1,01/09/2020,False,41807117
+527,5,sainte marie de re,,,01/09/2020,False,36513210
+234,3,rivedoux plage,,1,01/09/2020,False,42885442
+516,7,nieul sur mer,,4,01/09/2020,False,20636522
+431,3,sainte marie de re,,,01/09/2020,False,3232178
+234,3,rivedoux plage,,1,01/09/2020,False,42725522
+240,4,la rochelle,,,01/09/2020,False,14794504
+234,3,rivedoux plage,,1,01/09/2020,False,42216319
+276,3,rivedoux plage,,,01/09/2020,False,37541967
+468,5,le bois plage en re,,3,01/09/2020,False,42582383
+460,5,nieul sur mer,,,01/09/2020,False,6411451
+328,5,loix,,5,01/09/2020,False,16119699
+438,4,loix,,3,01/09/2020,False,3007671
+234,3,rivedoux plage,,1,01/09/2020,False,41807117
+234,3,rivedoux plage,,1,01/09/2020,False,42885442
+527,5,sainte marie de re,,,01/09/2020,False,36513210
+431,3,sainte marie de re,,,01/09/2020,False,3232178
+234,3,rivedoux plage,,1,01/09/2020,False,42725522
+516,7,nieul sur mer,,4,01/09/2020,False,20636522
+240,4,la rochelle,,,01/09/2020,False,14794504
+97,2,la rochelle,,1,01/09/2020,False,42261111
+234,3,rivedoux plage,,1,01/09/2020,False,42216319
+565,3,,,,01/09/2020,False,23107308
+276,3,rivedoux plage,,,01/09/2020,False,37541967
+366,4,,,,01/09/2020,False,42342665
+468,5,le bois plage en re,,3,01/09/2020,False,42582383
+430,3,la couarde sur mer,,,01/09/2020,False,29098962
+547,6,loix,,5,01/09/2020,False,21508247
+627,3,la couarde sur mer,,1,01/09/2020,False,17769304
+715,6,sainte marie de re,,7,01/09/2020,False,34239481
+255,4,le bois plage en re,,,08/09/2020,False,25288920
+147,3,la couarde sur mer,,,08/09/2020,False,39053278
+217,5,sainte marie de re,,3,08/09/2020,False,12760102
+263,3,la flotte,,,08/09/2020,False,27218929
+395,4,rivedoux plage,,,08/09/2020,False,30524192
+582,4,saint martin de re,,,08/09/2020,False,12749062
+280,4,sainte marie de re,,,08/09/2020,False,25230937
+351,4,la flotte,,3,08/09/2020,False,36855003
+107,2,la flotte,,1,08/09/2020,False,31802574
+430,4,le bois plage en re,,3,08/09/2020,False,33127310
+519,5,la flotte,,4,08/09/2020,False,38939476
+599,5,saint martin de re,,5,08/09/2020,False,39050748
+428,4,sainte marie de re,,,08/09/2020,False,32103313
+382,4,saint martin de re,,3,08/09/2020,False,42292241
+236,3,sainte marie de re,,,08/09/2020,False,29877465
+258,3,la couarde sur mer,,,08/09/2020,False,33822917
+410,5,saint martin de re,,,08/09/2020,False,18927199
+357,5,sainte marie de re,,,08/09/2020,False,19685590
+236,4,la rochelle,,1,08/09/2020,False,34895735
+321,5,sainte marie de re,,3,08/09/2020,False,15000319
+321,5,sainte marie de re,,3,08/09/2020,False,15000319
+621,4,sainte marie de re,,5,08/09/2020,False,32785452
+527,5,sainte marie de re,,3,08/09/2020,False,42172687
+289,4,rivedoux plage,,3,08/09/2020,False,42709937
+159,4,la couarde sur mer,,,08/09/2020,False,24008036
+355,4,nieul sur mer,,,08/09/2020,False,26432823
+355,3,sainte marie de re,,,08/09/2020,False,17179410
+320,4,,,,08/09/2020,False,20782074
+562,5,la flotte,,4,08/09/2020,False,26211665
+247,3,,,3,08/09/2020,False,5302915
+573,5,le bois plage en re,,4,08/09/2020,False,7745058
+192,3,la rochelle,,1,08/09/2020,False,34005373
+217,3,rivedoux plage,,1,08/09/2020,False,33131021
+274,3,le bois plage en re,,1,08/09/2020,False,14060596
+272,2,,,,08/09/2020,False,3278118
+294,4,,,,08/09/2020,False,40391657
+503,0,sainte marie de re,,3,08/09/2020,False,42164842
+297,4,rivedoux plage,,,08/09/2020,False,13397150
+162,3,la couarde sur mer,,1,08/09/2020,False,18485059
+308,4,l houmeau,,,08/09/2020,False,13964266
+785,5,le bois plage en re,,4,08/09/2020,False,21742914
+195,4,la rochelle,,,08/09/2020,False,7447043
+429,3,le bois plage en re,,,08/09/2020,False,15844141
+176,2,rivedoux plage,,1,08/09/2020,False,31656617
+463,4,sainte marie de re,,,08/09/2020,False,3077929
+406,4,la flotte,,3,08/09/2020,False,41956735
+371,5,sainte marie de re,,5,08/09/2020,False,28240132
+"1,170",7,sainte marie de re,,6,08/09/2020,False,40301127
+426,4,le bois plage en re,,5,08/09/2020,False,32300208
+387,4,sainte marie de re,,3,08/09/2020,False,5633867
+644,5,la couarde sur mer,,3,08/09/2020,False,32959687
+323,4,,,3,08/09/2020,False,33264992
+451,4,le bois plage en re,,4,08/09/2020,False,21269304
+187,3,la rochelle,,1,08/09/2020,False,42980317
+423,3,rivedoux plage,,3,08/09/2020,False,33343343
+298,3,rivedoux plage,,,08/09/2020,False,12256043
+451,5,saint martin de re,,,08/09/2020,False,38745104
+652,5,,,4,08/09/2020,False,38771864
+326,4,sainte marie de re,,,08/09/2020,False,6442596
+228,5,sainte marie de re,,3,08/09/2020,False,42855461
+457,4,sainte marie de re,,3,08/09/2020,False,22441928
+373,3,sainte marie de re,,,08/09/2020,False,3232178
+516,7,nieul sur mer,,4,08/09/2020,False,20636522
+193,3,sainte marie de re,,,08/09/2020,False,1196922
+280,3,la flotte,,4,08/09/2020,False,23992053
+415,5,nieul sur mer,,3,08/09/2020,False,20351991
+465,3,la flotte,,3,08/09/2020,False,5018017
+462,3,rivedoux plage,,3,08/09/2020,False,13812715
+438,4,loix,,3,08/09/2020,False,3007671
+162,3,rivedoux plage,,1,08/09/2020,False,42725522
+335,6,rivedoux plage,,3,08/09/2020,False,4945576
+370,4,nieul sur mer,,3,08/09/2020,False,20423674
+162,3,rivedoux plage,,1,08/09/2020,False,41807117
+468,5,le bois plage en re,,3,08/09/2020,False,42582383
+341,4,sainte marie de re,,,08/09/2020,False,25654302
+301,3,sainte marie de re,,3,08/09/2020,False,28533702
+306,3,le bois plage en re,,,08/09/2020,False,32638038
+527,5,sainte marie de re,,,08/09/2020,False,36513210
+328,5,loix,,5,08/09/2020,False,16119699
+162,3,rivedoux plage,,1,08/09/2020,False,42216319
+449,4,loix,,3,08/09/2020,False,979153
+351,3,le bois plage en re,,,08/09/2020,False,39211506
+385,3,la flotte,,,08/09/2020,False,13561680
+672,4,sainte marie de re,,4,08/09/2020,False,23621860
+319,5,sainte marie de re,,3,08/09/2020,False,26373652
+335,6,rivedoux plage,,3,08/09/2020,False,4945576
+602,6,la couarde sur mer,,3,08/09/2020,False,40408890
+776,4,la flotte,,3,08/09/2020,False,21724525
+468,3,loix,,5,08/09/2020,False,15925057
+421,4,le bois plage en re,,4,08/09/2020,False,16119700
+482,4,le bois plage en re,,,08/09/2020,False,42995578
+819,4,le bois plage en re,,5,08/09/2020,False,7126485
+435,4,sainte marie de re,,3,08/09/2020,False,16573701
+702,5,rivedoux plage,,5,08/09/2020,False,6817965
+767,5,la couarde sur mer,,3,08/09/2020,False,1358373
+544,3,la couarde sur mer,,,08/09/2020,False,1275210
+255,4,le bois plage en re,,,15/09/2020,False,25288920
+137,3,la couarde sur mer,,,15/09/2020,False,39053278
+272,3,le bois plage en re,,3,15/09/2020,False,16857198
+193,3,le bois plage en re,,,15/09/2020,False,33759042
+217,5,sainte marie de re,,3,15/09/2020,False,12760102
+560,6,saint martin de re,,6,15/09/2020,False,33418725
+253,5,sainte marie de re,,3,15/09/2020,False,20478019
+276,4,sainte marie de re,,3,15/09/2020,False,12962979
+259,3,la flotte,,,15/09/2020,False,27218929
+582,4,saint martin de re,,,15/09/2020,False,12749062
+107,2,la flotte,,1,15/09/2020,False,31802574
+306,3,la flotte,,,15/09/2020,False,42728576
+334,4,sainte marie de re,,,15/09/2020,False,32103313
+353,5,sainte marie de re,,3,15/09/2020,False,38963748
+280,4,sainte marie de re,,,15/09/2020,False,25230937
+430,4,le bois plage en re,,3,15/09/2020,False,33127310
+599,5,saint martin de re,,5,15/09/2020,False,39050748
+376,5,saint martin de re,,,15/09/2020,False,18927199
+236,4,la rochelle,,1,15/09/2020,False,34895735
+283,5,sainte marie de re,,3,15/09/2020,False,11598740
+258,3,la couarde sur mer,,,15/09/2020,False,33822917
+283,5,sainte marie de re,,3,15/09/2020,False,11598740
+223,3,sainte marie de re,,,15/09/2020,False,29877465
+237,3,sainte marie de re,,,15/09/2020,False,21994231
+357,5,sainte marie de re,,,15/09/2020,False,19685590
+159,4,la couarde sur mer,,,15/09/2020,False,24008036
+502,5,sainte marie de re,,3,15/09/2020,False,42172687
+351,4,la flotte,,3,15/09/2020,False,36855003
+321,5,sainte marie de re,,3,15/09/2020,False,15000319
+621,4,sainte marie de re,,5,15/09/2020,False,32785452
+107,2,la flotte,,1,15/09/2020,False,32883656
+562,5,la flotte,,4,15/09/2020,False,26211665
+355,3,sainte marie de re,,,15/09/2020,False,17179410
+573,5,le bois plage en re,,4,15/09/2020,False,7745058
+274,3,le bois plage en re,,1,15/09/2020,False,14060596
+350,3,la flotte,,3,15/09/2020,False,21344501
+503,0,sainte marie de re,,3,15/09/2020,False,42164842
+159,3,sainte marie de re,,,15/09/2020,False,31029748
+282,4,rivedoux plage,,,15/09/2020,False,13397150
+881,6,saint martin de re,,5,15/09/2020,False,20600612
+283,5,sainte marie de re,,3,15/09/2020,False,11598740
+236,4,la rochelle,,1,15/09/2020,False,34895735
+275,3,,,,15/09/2020,False,13371019
+192,3,la rochelle,,1,15/09/2020,False,34005373
+502,5,sainte marie de re,,3,15/09/2020,False,42172687
+355,4,nieul sur mer,,,15/09/2020,False,26432823
+746,5,le bois plage en re,,4,15/09/2020,False,21742914
+562,5,la flotte,,4,15/09/2020,False,26211665
+281,4,l houmeau,,,15/09/2020,False,13964266
+368,4,la flotte,,3,15/09/2020,False,41956735
+282,4,rivedoux plage,,,15/09/2020,False,13397150
+176,2,rivedoux plage,,1,15/09/2020,False,31656617
+378,5,sainte marie de re,,3,15/09/2020,False,29669043
+328,4,la rochelle,,3,15/09/2020,False,34712442
+451,5,saint martin de re,,,15/09/2020,False,38745104
+294,4,,,,15/09/2020,False,40391657
+161,3,la rochelle,,1,15/09/2020,False,42980317
+195,4,la rochelle,,,15/09/2020,False,7447043
+881,6,saint martin de re,,5,15/09/2020,False,20600612
+398,3,rivedoux plage,,3,15/09/2020,False,33343343
+111,3,rivedoux plage,,1,15/09/2020,False,42725522
+378,5,sainte marie de re,,3,15/09/2020,False,29669043
+408,3,rivedoux plage,,3,15/09/2020,False,13812715
+111,3,rivedoux plage,,1,15/09/2020,False,41807117
+318,5,le bois plage en re,,5,15/09/2020,False,12964045
+609,6,rivedoux plage,,4,15/09/2020,False,6235071
+263,3,la flotte,,4,15/09/2020,False,23992053
+465,3,la flotte,,3,15/09/2020,False,5018017
+761,6,le bois plage en re,,5,15/09/2020,False,3136842
+457,4,sainte marie de re,,3,15/09/2020,False,22441928
+373,3,sainte marie de re,,,15/09/2020,False,3232178
+193,3,sainte marie de re,,,15/09/2020,False,1196922
+132,2,la couarde sur mer,,1,15/09/2020,False,28659319
+"1,006",6,le bois plage en re,,5,15/09/2020,False,18305081
+111,3,rivedoux plage,,1,15/09/2020,False,42216319
+438,4,loix,,3,15/09/2020,False,3007671
+335,6,rivedoux plage,,3,15/09/2020,False,4945576
+468,5,le bois plage en re,,3,15/09/2020,False,42582383
+306,3,le bois plage en re,,,15/09/2020,False,32638038
+527,5,sainte marie de re,,,15/09/2020,False,36513210
+325,5,la rochelle,,5,15/09/2020,False,14455346
+463,4,sainte marie de re,,,15/09/2020,False,3077929
+609,6,rivedoux plage,,4,15/09/2020,False,6235071
+132,2,la couarde sur mer,,1,15/09/2020,False,28659319
+317,2,lagord,,1,15/09/2020,False,37264191
+493,5,rivedoux plage,,3,15/09/2020,False,40198678
+111,3,rivedoux plage,,1,15/09/2020,False,41807117
+318,5,le bois plage en re,,5,15/09/2020,False,12964045
+326,4,sainte marie de re,,,15/09/2020,False,6442596
+193,3,sainte marie de re,,,15/09/2020,False,1196922
+243,3,rivedoux plage,,,15/09/2020,False,37541967
+301,3,sainte marie de re,,3,15/09/2020,False,28533702
+844,7,rivedoux plage,,6,15/09/2020,False,17001566
+347,5,nieul sur mer,,3,15/09/2020,False,20351991
+383,3,la couarde sur mer,,3,15/09/2020,False,11884365
+644,5,la couarde sur mer,,3,15/09/2020,False,32959687
+288,3,sainte marie de re,,,15/09/2020,False,41898522
+370,4,nieul sur mer,,3,15/09/2020,False,20423674
+111,3,rivedoux plage,,1,15/09/2020,False,42725522
+745,6,le bois plage en re,,5,15/09/2020,False,33769499
+438,4,loix,,3,15/09/2020,False,3007671
+370,4,nieul sur mer,,3,15/09/2020,False,20423674
+335,6,rivedoux plage,,3,15/09/2020,False,4945576
+111,3,rivedoux plage,,1,15/09/2020,False,42216319
+961,6,,,5,15/09/2020,False,39274320
+527,5,sainte marie de re,,,15/09/2020,False,36513210
+550,3,,,,15/09/2020,False,23107308
+468,5,le bois plage en re,,3,15/09/2020,False,42582383
+301,3,sainte marie de re,,3,15/09/2020,False,28533702
+243,3,rivedoux plage,,,15/09/2020,False,37541967
+341,4,sainte marie de re,,,15/09/2020,False,25654302
+306,3,le bois plage en re,,,15/09/2020,False,32638038
+328,5,loix,,5,15/09/2020,False,16119699
+745,6,le bois plage en re,,5,15/09/2020,False,33769499
+812,4,sainte marie de re,,3,15/09/2020,False,39165287
+259,3,sainte marie de re,,,15/09/2020,False,20086059
+288,3,sainte marie de re,,,15/09/2020,False,41898522
+547,6,loix,,5,15/09/2020,False,21508247
+97,2,la rochelle,,1,15/09/2020,False,42261111
+111,3,rivedoux plage,,1,15/09/2020,False,42885442
+255,4,le bois plage en re,,,22/09/2020,False,25288920
+272,3,le bois plage en re,,3,22/09/2020,False,16857198
+280,4,sainte marie de re,,,22/09/2020,False,25230937
+170,2,loix,,3,22/09/2020,False,907453
+193,3,le bois plage en re,,,22/09/2020,False,33759042
+332,4,saint martin de re,,3,22/09/2020,False,42292241
+253,5,sainte marie de re,,3,22/09/2020,False,20478019
+276,4,sainte marie de re,,3,22/09/2020,False,12962979
+130,3,la couarde sur mer,,,22/09/2020,False,39053278
+159,4,la couarde sur mer,,,22/09/2020,False,24008036
+306,3,la flotte,,,22/09/2020,False,42728576
+329,4,la flotte,,,22/09/2020,False,12734232
+432,5,la flotte,,4,22/09/2020,False,38939476
+438,4,la flotte,,3,22/09/2020,False,13664992
+217,5,sainte marie de re,,3,22/09/2020,False,12760102
+273,3,la couarde sur mer,,,22/09/2020,False,18991672
+334,4,sainte marie de re,,,22/09/2020,False,32103313
+277,3,la flotte,,3,22/09/2020,False,21344501
+348,4,la flotte,,3,22/09/2020,False,36855003
+599,5,saint martin de re,,5,22/09/2020,False,39050748
+251,3,la flotte,,,22/09/2020,False,27218929
+582,4,saint martin de re,,,22/09/2020,False,12749062
+410,5,le bois plage en re,,5,22/09/2020,False,36853426
+353,5,sainte marie de re,,3,22/09/2020,False,38963748
+258,3,sainte marie de re,,,22/09/2020,False,35189093
+385,4,le bois plage en re,,5,22/09/2020,False,32300208
+258,3,la couarde sur mer,,,22/09/2020,False,33822917
+107,2,la flotte,,1,22/09/2020,False,32883656
+99,2,la flotte,,1,22/09/2020,False,31802574
+668,5,le bois plage en re,,4,22/09/2020,False,21742914
+621,4,sainte marie de re,,5,22/09/2020,False,32785452
+159,3,sainte marie de re,,,22/09/2020,False,31029748
+264,3,sainte marie de re,,,22/09/2020,False,29877465
+376,5,saint martin de re,,,22/09/2020,False,18927199
+430,4,le bois plage en re,,3,22/09/2020,False,33127310
+318,4,la flotte,,3,22/09/2020,False,41956735
+310,5,sainte marie de re,,3,22/09/2020,False,15000319
+357,5,sainte marie de re,,,22/09/2020,False,19685590
+355,3,sainte marie de re,,,22/09/2020,False,17179410
+217,3,rivedoux plage,,1,22/09/2020,False,33131021
+159,3,sainte marie de re,,,22/09/2020,False,31029748
+562,5,la flotte,,4,22/09/2020,False,26211665
+881,6,saint martin de re,,5,22/09/2020,False,20600612
+274,3,le bois plage en re,,1,22/09/2020,False,14060596
+217,3,rivedoux plage,,1,22/09/2020,False,33131021
+684,6,saint martin de re,,5,22/09/2020,False,21728129
+258,3,sainte marie de re,,,22/09/2020,False,35189093
+282,4,rivedoux plage,,,22/09/2020,False,13397150
+627,5,la flotte,,5,22/09/2020,False,35829263
+311,3,le bois plage en re,,5,22/09/2020,False,23353670
+133,3,la couarde sur mer,,1,22/09/2020,False,10873866
+162,3,la couarde sur mer,,1,22/09/2020,False,18485059
+170,2,loix,,3,22/09/2020,False,907453
+429,3,le bois plage en re,,,22/09/2020,False,15844141
+463,4,sainte marie de re,,,22/09/2020,False,3077929
+176,2,rivedoux plage,,1,22/09/2020,False,31656617
+385,4,le bois plage en re,,5,22/09/2020,False,32300208
+438,4,le bois plage en re,,4,22/09/2020,False,21269304
+"1,170",7,sainte marie de re,,6,22/09/2020,False,40301127
+644,5,la couarde sur mer,,3,22/09/2020,False,32959687
+355,3,rivedoux plage,,3,22/09/2020,False,13812715
+294,4,,,,22/09/2020,False,40391657
+161,3,la rochelle,,1,22/09/2020,False,42980317
+627,5,la flotte,,5,22/09/2020,False,35829263
+478,4,l houmeau,,5,22/09/2020,False,42241508
+196,3,sainte marie de re,,,22/09/2020,False,40748352
+881,6,saint martin de re,,5,22/09/2020,False,20600612
+394,3,rivedoux plage,,3,22/09/2020,False,33343343
+241,4,,,,22/09/2020,False,5776989
+239,3,la flotte,,4,22/09/2020,False,23992053
+429,3,le bois plage en re,,,22/09/2020,False,15844141
+195,4,la rochelle,,,22/09/2020,False,7447043
+438,4,le bois plage en re,,4,22/09/2020,False,21269304
+"1,006",6,sainte marie de re,,6,22/09/2020,False,35798765
+319,4,,,3,22/09/2020,False,24168458
+371,5,sainte marie de re,,5,22/09/2020,False,28240132
+503,0,sainte marie de re,,3,22/09/2020,False,42164842
+162,3,la couarde sur mer,,1,22/09/2020,False,18485059
+465,3,la flotte,,3,22/09/2020,False,5018017
+573,5,le bois plage en re,,4,22/09/2020,False,7745058
+609,6,rivedoux plage,,4,22/09/2020,False,6235071
+318,5,le bois plage en re,,5,22/09/2020,False,12964045
+457,4,sainte marie de re,,3,22/09/2020,False,22441928
+"1,006",6,le bois plage en re,,5,22/09/2020,False,18305081
+111,3,rivedoux plage,,1,22/09/2020,False,42216319
+741,5,saint martin de re,,4,22/09/2020,False,33636418
+488,4,sainte marie de re,,,22/09/2020,False,24593561
+438,4,loix,,3,22/09/2020,False,3007671
+193,3,sainte marie de re,,,22/09/2020,False,1196922
+468,5,le bois plage en re,,3,22/09/2020,False,42582383
+527,5,sainte marie de re,,,22/09/2020,False,36513210
+335,6,rivedoux plage,,3,22/09/2020,False,4945576
+745,6,le bois plage en re,,5,22/09/2020,False,33769499
+111,3,rivedoux plage,,1,22/09/2020,False,42885442
+301,3,sainte marie de re,,3,22/09/2020,False,28533702
+306,3,le bois plage en re,,,22/09/2020,False,32638038
+341,4,sainte marie de re,,,22/09/2020,False,25654302
+812,4,sainte marie de re,,3,22/09/2020,False,39165287
+259,3,sainte marie de re,,,22/09/2020,False,20086059
+328,5,loix,,5,22/09/2020,False,16119699
+319,4,la flotte,,,22/09/2020,False,33965725
+326,4,sainte marie de re,,,22/09/2020,False,6442596
+325,3,rivedoux plage,,,22/09/2020,False,12256043
+333,3,sainte marie de re,,,22/09/2020,False,3232178
+844,7,rivedoux plage,,6,22/09/2020,False,17001566
+318,5,le bois plage en re,,5,22/09/2020,False,12964045
+301,3,sainte marie de re,,3,22/09/2020,False,28533702
+111,3,rivedoux plage,,1,22/09/2020,False,42725522
+383,3,la couarde sur mer,,3,22/09/2020,False,11884365
+488,4,sainte marie de re,,,22/09/2020,False,24593561
+727,6,le bois plage en re,,5,22/09/2020,False,3136842
+193,3,sainte marie de re,,,22/09/2020,False,1196922
+370,4,nieul sur mer,,3,22/09/2020,False,20423674
+644,5,la couarde sur mer,,3,22/09/2020,False,32959687
+664,3,,,3,22/09/2020,False,29960783
+288,3,sainte marie de re,,,22/09/2020,False,41898522
+111,3,rivedoux plage,,1,22/09/2020,False,42885442
+745,6,le bois plage en re,,5,22/09/2020,False,33769499
+228,5,sainte marie de re,,3,22/09/2020,False,42855461
+741,5,saint martin de re,,4,22/09/2020,False,33636418
+383,3,la couarde sur mer,,3,22/09/2020,False,11884365
+"1,504",8,la flotte,,5,22/09/2020,False,28909955
+715,6,sainte marie de re,,7,22/09/2020,False,34239481
+589,3,la couarde sur mer,,4,22/09/2020,False,6727209
+116,2,la rochelle,,,22/09/2020,False,28663922
+240,4,la rochelle,,,22/09/2020,False,14794504
+428,3,loix,,,22/09/2020,False,23892072
+364,5,rivedoux plage,,4,22/09/2020,False,37707361
+498,5,la couarde sur mer,,3,22/09/2020,False,24078415
+627,3,la couarde sur mer,,1,22/09/2020,False,17769304
+278,5,loix,,,22/09/2020,False,8725810
+835,4,rivedoux plage,,3,22/09/2020,False,42881478
+563,3,rivedoux plage,,,22/09/2020,False,30150760
+311,3,la rochelle,,,22/09/2020,False,16317728
+449,4,loix,,3,22/09/2020,False,979153
+602,6,la couarde sur mer,,3,22/09/2020,False,40408890
+351,3,le bois plage en re,,,22/09/2020,False,39211506
+632,6,sainte marie de re,,4,22/09/2020,False,5359200
+385,3,la flotte,,,22/09/2020,False,13561680
+421,4,le bois plage en re,,4,22/09/2020,False,16119700
+615,5,rivedoux plage,,,22/09/2020,False,31922291
+547,6,loix,,5,22/09/2020,False,21508247
+240,4,la rochelle,,,22/09/2020,False,14794504
+961,6,,,5,22/09/2020,False,39274320
+"1,504",6,le bois plage en re,,6,22/09/2020,False,586843
+409,3,,,,22/09/2020,False,3887370
+617,5,la rochelle,,,22/09/2020,False,25997381
+116,2,la rochelle,,,22/09/2020,False,28663922
+589,3,la couarde sur mer,,4,22/09/2020,False,6727209
+351,3,le bois plage en re,,,22/09/2020,False,39211506
+835,4,rivedoux plage,,3,22/09/2020,False,42881478
+"1,504",8,la flotte,,5,22/09/2020,False,28909955
+311,3,la rochelle,,,22/09/2020,False,16317728
+206,3,,,,22/09/2020,False,7452990
+563,3,rivedoux plage,,,22/09/2020,False,30150760
+627,3,la couarde sur mer,,1,22/09/2020,False,17769304
+364,5,rivedoux plage,,4,22/09/2020,False,37707361
+449,4,loix,,3,22/09/2020,False,979153
+867,7,,,8,22/09/2020,False,5471931
+385,3,la flotte,,,22/09/2020,False,13561680
+602,6,la couarde sur mer,,3,22/09/2020,False,40408890
+492,4,la rochelle,,3,22/09/2020,False,17679050
+351,3,le bois plage en re,,,22/09/2020,False,39211506
+719,4,lagord,,,22/09/2020,False,32510158
+731,5,,,3,22/09/2020,False,1049817
+385,3,la flotte,,,22/09/2020,False,13561680
+632,6,sainte marie de re,,4,22/09/2020,False,5359200
+421,4,le bois plage en re,,4,22/09/2020,False,16119700
+322,5,sainte marie de re,,3,22/09/2020,False,26373652
+245,4,,,,22/09/2020,False,25174790
+569,4,l houmeau,,,22/09/2020,False,29237359
+776,4,la flotte,,3,22/09/2020,False,21724525
+468,3,loix,,5,22/09/2020,False,15925057
+355,3,l houmeau,,4,22/09/2020,False,34859421
+480,5,rivedoux plage,,,22/09/2020,False,16172560
+"1,420",6,rivedoux plage,,5,22/09/2020,False,24168343
+482,4,le bois plage en re,,,22/09/2020,False,42995578
+"1,145",5,,,4,22/09/2020,False,33548662
+819,4,le bois plage en re,,5,22/09/2020,False,7126485
+311,3,la rochelle,,,22/09/2020,False,2050360
+191,4,le bois plage en re,,,29/09/2020,False,18179034
+255,4,le bois plage en re,,,29/09/2020,False,25288920
+223,3,la flotte,,,29/09/2020,False,42728576
+260,3,le bois plage en re,,3,29/09/2020,False,16857198
+133,2,loix,,3,29/09/2020,False,907453
+176,3,sainte marie de re,,,29/09/2020,False,12976498
+265,4,saint martin de re,,3,29/09/2020,False,42292241
+231,3,la couarde sur mer,,,29/09/2020,False,18991672
+444,5,saint martin de re,,5,29/09/2020,False,39050748
+213,4,le bois plage en re,,3,29/09/2020,False,32852482
+214,3,la flotte,,5,29/09/2020,False,32834176
+325,4,la flotte,,,29/09/2020,False,12734232
+281,4,sainte marie de re,,,29/09/2020,False,32103313
+193,3,le bois plage en re,,,29/09/2020,False,33759042
+120,3,la couarde sur mer,,,29/09/2020,False,39053278
+318,5,le bois plage en re,,5,29/09/2020,False,36853426
+560,6,saint martin de re,,6,29/09/2020,False,33418725
+253,5,sainte marie de re,,3,29/09/2020,False,20478019
+159,4,la couarde sur mer,,,29/09/2020,False,24008036
+416,4,la flotte,,3,29/09/2020,False,13664992
+560,6,saint martin de re,,6,29/09/2020,False,33418725
+363,4,le bois plage en re,,3,29/09/2020,False,33127310
+416,4,la flotte,,3,29/09/2020,False,13664992
+216,4,sainte marie de re,,3,29/09/2020,False,12962979
+277,3,la flotte,,3,29/09/2020,False,21344501
+245,3,la couarde sur mer,,,29/09/2020,False,33822917
+377,5,sainte marie de re,,,29/09/2020,False,19685590
+184,3,sainte marie de re,,1,29/09/2020,False,5832484
+533,4,saint martin de re,,4,29/09/2020,False,34822614
+251,3,la flotte,,,29/09/2020,False,27218929
+632,5,le bois plage en re,,4,29/09/2020,False,21742914
+410,5,sainte marie de re,,3,29/09/2020,False,42172687
+295,5,sainte marie de re,,3,29/09/2020,False,15000319
+621,4,sainte marie de re,,5,29/09/2020,False,32785452
+159,4,la couarde sur mer,,,29/09/2020,False,24008036
+376,5,saint martin de re,,,29/09/2020,False,18927199
+340,4,la flotte,,3,29/09/2020,False,36855003
+568,5,la flotte,,5,29/09/2020,False,35829263
+355,3,sainte marie de re,,,29/09/2020,False,17179410
+283,5,sainte marie de re,,3,29/09/2020,False,11598740
+340,4,la flotte,,3,29/09/2020,False,36855003
+568,5,la flotte,,5,29/09/2020,False,35829263
+322,5,,,3,29/09/2020,False,38472355
+355,3,sainte marie de re,,,29/09/2020,False,17179410
+242,3,,,3,29/09/2020,False,5302915
+318,4,la flotte,,3,29/09/2020,False,41956735
+269,2,,,,29/09/2020,False,3278118
+562,5,la flotte,,4,29/09/2020,False,26211665
+283,5,sainte marie de re,,3,29/09/2020,False,11598740
+237,3,sainte marie de re,,,29/09/2020,False,21994231
+881,6,saint martin de re,,5,29/09/2020,False,20600612
+159,3,sainte marie de re,,,29/09/2020,False,31029748
+206,3,sainte marie de re,,,29/09/2020,False,3232178
+194,4,le bois plage en re,,4,29/09/2020,False,15862883
+226,3,sainte marie de re,,,29/09/2020,False,35189093
+155,4,la rochelle,,,29/09/2020,False,7447043
+192,3,la rochelle,,1,29/09/2020,False,34005373
+217,3,rivedoux plage,,1,29/09/2020,False,33131021
+133,2,loix,,3,29/09/2020,False,907453
+555,5,la rochelle,,4,29/09/2020,False,27774687
+369,3,sainte marie de re,,,29/09/2020,False,29877465
+197,3,sainte marie de re,,,29/09/2020,False,40748352
+385,4,le bois plage en re,,5,29/09/2020,False,32300208
+140,3,la couarde sur mer,,1,29/09/2020,False,10873866
+"1,170",7,sainte marie de re,,6,29/09/2020,False,40301127
+429,3,le bois plage en re,,,29/09/2020,False,15844141
+644,5,la couarde sur mer,,3,29/09/2020,False,32959687
+387,4,sainte marie de re,,3,29/09/2020,False,5633867
+355,3,rivedoux plage,,3,29/09/2020,False,13812715
+451,5,saint martin de re,,,29/09/2020,False,38745104
+"1,006",6,sainte marie de re,,6,29/09/2020,False,35798765
+111,3,rivedoux plage,,1,29/09/2020,False,42725522
+644,6,le bois plage en re,,5,29/09/2020,False,3136842
+111,3,rivedoux plage,,1,29/09/2020,False,41807117
+378,5,sainte marie de re,,3,29/09/2020,False,29669043
+326,4,sainte marie de re,,,29/09/2020,False,6442596
+228,5,sainte marie de re,,3,29/09/2020,False,42855461
+214,3,la flotte,,4,29/09/2020,False,23992053
+465,3,la flotte,,3,29/09/2020,False,5018017
+116,2,la couarde sur mer,,1,29/09/2020,False,28659319
+314,5,,,3,29/09/2020,False,31428953
+416,3,rivedoux plage,,3,29/09/2020,False,33343343
+677,7,rivedoux plage,,6,29/09/2020,False,17001566
+555,5,la rochelle,,4,29/09/2020,False,27774687
+116,2,la couarde sur mer,,1,29/09/2020,False,28659319
+439,4,sainte marie de re,,,29/09/2020,False,3077929
+306,3,le bois plage en re,,,29/09/2020,False,32638038
+"1,170",7,sainte marie de re,,6,29/09/2020,False,40301127
+162,3,la couarde sur mer,,1,29/09/2020,False,18485059
+387,4,sainte marie de re,,3,29/09/2020,False,5633867
+573,5,le bois plage en re,,4,29/09/2020,False,7745058
+454,4,la rochelle,,,29/09/2020,False,40747802
+513,5,,,5,29/09/2020,False,14958568
+317,2,lagord,,1,29/09/2020,False,37264191
+473,3,,,5,29/09/2020,False,36516467
+259,3,sainte marie de re,,,29/09/2020,False,20086059
+644,6,le bois plage en re,,5,29/09/2020,False,3136842
+478,5,rivedoux plage,,3,29/09/2020,False,40198678
+111,3,rivedoux plage,,1,29/09/2020,False,41807117
+456,4,sainte marie de re,,3,29/09/2020,False,22441928
+"1,504",6,le bois plage en re,,6,29/09/2020,False,586843
+288,3,sainte marie de re,,,29/09/2020,False,41898522
+259,3,sainte marie de re,,,29/09/2020,False,20086059
+615,5,rivedoux plage,,,29/09/2020,False,31922291
+"1,337",8,la flotte,,5,29/09/2020,False,28909955
+430,3,la couarde sur mer,,,29/09/2020,False,29098962
+361,3,loix,,,29/09/2020,False,23892072
+589,3,la couarde sur mer,,4,29/09/2020,False,6727209
+547,6,loix,,5,29/09/2020,False,21508247
+715,6,sainte marie de re,,7,29/09/2020,False,34239481
+383,3,la couarde sur mer,,3,29/09/2020,False,11884365
+498,5,la couarde sur mer,,3,29/09/2020,False,24078415
+835,4,rivedoux plage,,3,29/09/2020,False,42881478
+627,3,la couarde sur mer,,1,29/09/2020,False,17769304
+278,5,loix,,,29/09/2020,False,8725810
+430,5,le bois plage en re,,3,29/09/2020,False,35900610
+563,3,rivedoux plage,,,29/09/2020,False,30150760
+384,4,loix,,3,29/09/2020,False,979153
+632,6,sainte marie de re,,4,29/09/2020,False,5359200
+385,3,la flotte,,,29/09/2020,False,13561680
+430,3,la couarde sur mer,,,29/09/2020,False,29098962
+547,6,loix,,5,29/09/2020,False,21508247
+617,5,la rochelle,,,29/09/2020,False,25997381
+589,3,la couarde sur mer,,4,29/09/2020,False,6727209
+715,6,sainte marie de re,,7,29/09/2020,False,34239481
+116,2,la rochelle,,,29/09/2020,False,28663922
+383,3,la couarde sur mer,,3,29/09/2020,False,11884365
+498,5,la couarde sur mer,,3,29/09/2020,False,24078415
+627,3,la couarde sur mer,,1,29/09/2020,False,17769304
+835,4,rivedoux plage,,3,29/09/2020,False,42881478
+364,5,rivedoux plage,,4,29/09/2020,False,37707361
+278,5,loix,,,29/09/2020,False,8725810
+563,3,rivedoux plage,,,29/09/2020,False,30150760
+430,5,le bois plage en re,,3,29/09/2020,False,35900610
+311,3,la rochelle,,,29/09/2020,False,16317728
+384,4,loix,,3,29/09/2020,False,979153
+385,3,la flotte,,,29/09/2020,False,13561680
+632,6,sainte marie de re,,4,29/09/2020,False,5359200
+776,4,la flotte,,3,29/09/2020,False,21724525
+569,4,l houmeau,,,29/09/2020,False,29237359
+569,4,l houmeau,,,29/09/2020,False,29237359
+355,3,l houmeau,,4,29/09/2020,False,34859421
+"1,420",6,rivedoux plage,,5,29/09/2020,False,24168343
+388,5,sainte marie de re,,3,29/09/2020,False,26373652
+482,4,le bois plage en re,,,29/09/2020,False,42995578
+819,4,le bois plage en re,,5,29/09/2020,False,7126485
+480,5,rivedoux plage,,,29/09/2020,False,16172560
+311,3,la rochelle,,,29/09/2020,False,2050360
+435,4,sainte marie de re,,3,29/09/2020,False,16573701
+702,5,rivedoux plage,,5,29/09/2020,False,6817965
+767,5,la couarde sur mer,,3,29/09/2020,False,1358373
+544,3,la couarde sur mer,,,29/09/2020,False,1275210
+240,3,la rochelle,,1,29/09/2020,False,42091552
+191,4,le bois plage en re,,,06/10/2020,False,18179034
+260,4,la couarde sur mer,,5,06/10/2020,False,34108527
+255,4,,,,06/10/2020,False,25288920
+189,3,la flotte,,,06/10/2020,False,42728576
+193,4,sainte marie de re,,3,06/10/2020,False,12962979
+119,2,loix,,3,06/10/2020,False,907453
+254,3,le bois plage en re,,3,06/10/2020,False,16857198
+419,5,saint martin de re,,5,06/10/2020,False,39050748
+223,3,saint martin de re,,1,06/10/2020,False,22405941
+265,4,saint martin de re,,3,06/10/2020,False,42292241
+193,3,la flotte,,5,06/10/2020,False,32834176
+111,2,la flotte,,,06/10/2020,False,22670677
+268,5,le bois plage en re,,5,06/10/2020,False,36853426
+221,3,la couarde sur mer,,,06/10/2020,False,18991672
+259,4,sainte marie de re,,,06/10/2020,False,32103313
+368,4,la flotte,,3,06/10/2020,False,13664992
+238,4,sainte marie de re,,,06/10/2020,False,25230937
+213,4,le bois plage en re,,3,06/10/2020,False,32852482
+171,4,sainte marie de re,,,06/10/2020,False,19850715
+325,4,la flotte,,,06/10/2020,False,12734232
+171,4,sainte marie de re,,,06/10/2020,False,19850715
+432,5,la flotte,,4,06/10/2020,False,38939476
+193,4,sainte marie de re,,3,06/10/2020,False,12962979
+215,4,rivedoux plage,,,06/10/2020,False,16602461
+238,4,sainte marie de re,,,06/10/2020,False,25230937
+193,3,le bois plage en re,,,06/10/2020,False,33759042
+168,4,rivedoux plage,,4,06/10/2020,False,14888511
+221,3,la couarde sur mer,,,06/10/2020,False,18991672
+213,4,le bois plage en re,,3,06/10/2020,False,32852482
+231,3,la couarde sur mer,,,06/10/2020,False,33822917
+60,2,la flotte,,1,06/10/2020,False,31802574
+277,3,la flotte,,3,06/10/2020,False,21344501
+223,3,saint martin de re,,1,06/10/2020,False,22405941
+533,4,saint martin de re,,4,06/10/2020,False,34822614
+632,5,le bois plage en re,,4,06/10/2020,False,21742914
+385,5,sainte marie de re,,,06/10/2020,False,19685590
+251,3,la flotte,,,06/10/2020,False,27218929
+467,4,sainte marie de re,,5,06/10/2020,False,1211378
+410,5,sainte marie de re,,3,06/10/2020,False,42172687
+621,4,sainte marie de re,,5,06/10/2020,False,32785452
+467,4,sainte marie de re,,5,06/10/2020,False,1211378
+410,5,sainte marie de re,,3,06/10/2020,False,42172687
+478,4,l houmeau,,5,06/10/2020,False,42241508
+301,3,nieul sur mer,,5,06/10/2020,False,25453348
+295,5,sainte marie de re,,3,06/10/2020,False,15000319
+545,5,la flotte,,5,06/10/2020,False,35829263
+184,3,sainte marie de re,,1,06/10/2020,False,5832484
+164,3,sainte marie de re,,,06/10/2020,False,3232178
+340,4,la flotte,,3,06/10/2020,False,36855003
+236,4,rivedoux plage,,3,06/10/2020,False,42709937
+159,4,la couarde sur mer,,,06/10/2020,False,24008036
+176,3,sainte marie de re,,,06/10/2020,False,35189093
+152,4,le bois plage en re,,4,06/10/2020,False,15862883
+376,5,saint martin de re,,,06/10/2020,False,18927199
+96,2,la flotte,,1,06/10/2020,False,32883656
+355,3,sainte marie de re,,,06/10/2020,False,17179410
+881,6,saint martin de re,,5,06/10/2020,False,20600612
+119,2,loix,,3,06/10/2020,False,907453
+159,3,sainte marie de re,,,06/10/2020,False,31029748
+542,5,la rochelle,,4,06/10/2020,False,27774687
+181,3,la flotte,,4,06/10/2020,False,23992053
+562,5,la flotte,,4,06/10/2020,False,26211665
+385,5,sainte marie de re,,,06/10/2020,False,19685590
+418,5,la couarde sur mer,,4,06/10/2020,False,7176598
+435,4,,,4,06/10/2020,False,18236993
+293,3,le bois plage en re,,5,06/10/2020,False,23353670
+451,5,saint martin de re,,,06/10/2020,False,38745104
+358,3,loix,,,06/10/2020,False,18581635
+282,4,rivedoux plage,,,06/10/2020,False,13397150
+378,5,sainte marie de re,,3,06/10/2020,False,29669043
+164,3,sainte marie de re,,,06/10/2020,False,3232178
+412,5,la couarde sur mer,,4,06/10/2020,False,7197354
+881,6,saint martin de re,,5,06/10/2020,False,20600612
+369,3,sainte marie de re,,,06/10/2020,False,29877465
+197,3,sainte marie de re,,,06/10/2020,False,40748352
+355,3,rivedoux plage,,3,06/10/2020,False,13812715
+"1,006",6,sainte marie de re,,6,06/10/2020,False,35798765
+405,4,le bois plage en re,,4,06/10/2020,False,21269304
+465,3,la flotte,,3,06/10/2020,False,5018017
+348,5,sainte marie de re,,5,06/10/2020,False,28240132
+274,3,le bois plage en re,,1,06/10/2020,False,14060596
+154,2,rivedoux plage,,1,06/10/2020,False,31656617
+573,5,le bois plage en re,,4,06/10/2020,False,7745058
+429,4,sainte marie de re,,,06/10/2020,False,3077929
+405,4,le bois plage en re,,4,06/10/2020,False,21269304
+369,3,sainte marie de re,,,06/10/2020,False,29877465
+348,5,sainte marie de re,,5,06/10/2020,False,28240132
+181,3,la flotte,,4,06/10/2020,False,23992053
+385,4,le bois plage en re,,5,06/10/2020,False,32300208
+"1,170",7,sainte marie de re,,6,06/10/2020,False,40301127
+274,5,,,3,06/10/2020,False,31428953
+293,3,le bois plage en re,,5,06/10/2020,False,23353670
+162,3,la couarde sur mer,,1,06/10/2020,False,18485059
+197,3,sainte marie de re,,,06/10/2020,False,40748352
+224,4,la flotte,,,06/10/2020,False,33965725
+429,3,le bois plage en re,,,06/10/2020,False,15844141
+387,4,sainte marie de re,,3,06/10/2020,False,5633867
+644,5,la couarde sur mer,,3,06/10/2020,False,32959687
+319,5,nieul sur mer,,3,06/10/2020,False,20351991
+355,3,rivedoux plage,,3,06/10/2020,False,13812715
+"1,006",6,sainte marie de re,,6,06/10/2020,False,35798765
+451,5,saint martin de re,,,06/10/2020,False,38745104
+458,5,rivedoux plage,,3,06/10/2020,False,40198678
+417,3,rivedoux plage,,3,06/10/2020,False,33343343
+664,3,,,3,06/10/2020,False,29960783
+470,7,nieul sur mer,,4,06/10/2020,False,20636522
+644,6,le bois plage en re,,5,06/10/2020,False,3136842
+111,3,rivedoux plage,,1,06/10/2020,False,42725522
+254,3,sainte marie de re,,3,06/10/2020,False,18708964
+308,4,la rochelle,,1,06/10/2020,False,25107472
+317,2,lagord,,1,06/10/2020,False,37264191
+513,5,,,5,06/10/2020,False,14958568
+111,3,rivedoux plage,,1,06/10/2020,False,41807117
+378,5,sainte marie de re,,3,06/10/2020,False,29669043
+727,6,,,5,06/10/2020,False,39274320
+326,4,sainte marie de re,,,06/10/2020,False,6442596
+449,4,sainte marie de re,,3,06/10/2020,False,22441928
+465,3,la flotte,,3,06/10/2020,False,5018017
+412,5,la couarde sur mer,,4,06/10/2020,False,7197354
+177,3,la couarde sur mer,,1,06/10/2020,False,10873866
+715,6,sainte marie de re,,7,06/10/2020,False,34239481
+615,5,rivedoux plage,,,06/10/2020,False,31922291
+"1,270",8,la flotte,,5,06/10/2020,False,28909955
+835,4,rivedoux plage,,3,06/10/2020,False,42881478
+547,6,loix,,5,06/10/2020,False,21508247
+525,3,sainte marie de re,,3,06/10/2020,False,34273404
+430,3,la couarde sur mer,,,06/10/2020,False,29098962
+610,4,sainte marie de re,,3,06/10/2020,False,24323222
+589,3,la couarde sur mer,,4,06/10/2020,False,6727209
+430,5,le bois plage en re,,3,06/10/2020,False,35900610
+278,5,loix,,,06/10/2020,False,8725810
+627,3,la couarde sur mer,,1,06/10/2020,False,17769304
+298,4,loix,,3,06/10/2020,False,979153
+563,3,rivedoux plage,,,06/10/2020,False,30150760
+443,4,sainte marie de re,,4,06/10/2020,False,23621860
+385,3,la flotte,,,06/10/2020,False,13561680
+776,4,la flotte,,3,06/10/2020,False,21724525
+445,3,loix,,5,06/10/2020,False,15925057
+632,6,sainte marie de re,,4,06/10/2020,False,5359200
+602,6,la couarde sur mer,,3,06/10/2020,False,40408890
+280,2,la couarde sur mer,,1,06/10/2020,False,18251171
+388,5,sainte marie de re,,3,06/10/2020,False,26373652
+482,4,le bois plage en re,,,06/10/2020,False,42995578
+819,4,le bois plage en re,,5,06/10/2020,False,7126485
+702,5,rivedoux plage,,5,06/10/2020,False,6817965
+435,4,sainte marie de re,,3,06/10/2020,False,16573701
+767,5,la couarde sur mer,,3,06/10/2020,False,1358373
+544,3,la couarde sur mer,,,06/10/2020,False,1275210
+207,4,le bois plage en re,,,13/10/2020,False,18179034
+255,4,le bois plage en re,,,13/10/2020,False,25288920
+254,3,le bois plage en re,,3,13/10/2020,False,16857198
+119,2,loix,,3,13/10/2020,False,907453
+156,3,sainte marie de re,,,13/10/2020,False,12976498
+223,3,saint martin de re,,1,13/10/2020,False,22405941
+238,4,sainte marie de re,,,13/10/2020,False,25230937
+196,3,la couarde sur mer,,,13/10/2020,False,18991672
+265,4,saint martin de re,,3,13/10/2020,False,42292241
+256,3,la flotte,,,13/10/2020,False,42728576
+268,5,le bois plage en re,,5,13/10/2020,False,36853426
+368,4,la flotte,,3,13/10/2020,False,13664992
+101,2,la flotte,,,13/10/2020,False,22670677
+259,4,sainte marie de re,,,13/10/2020,False,32103313
+232,4,le bois plage en re,,3,13/10/2020,False,32852482
+253,5,sainte marie de re,,3,13/10/2020,False,20478019
+527,6,saint martin de re,,6,13/10/2020,False,33418725
+225,3,la flotte,,5,13/10/2020,False,32834176
+193,3,le bois plage en re,,,13/10/2020,False,33759042
+171,4,sainte marie de re,,,13/10/2020,False,19850715
+193,3,le bois plage en re,,,13/10/2020,False,33759042
+194,5,sainte marie de re,,3,13/10/2020,False,12760102
+193,4,sainte marie de re,,3,13/10/2020,False,12962979
+488,4,saint martin de re,,,13/10/2020,False,12749062
+159,4,la couarde sur mer,,,13/10/2020,False,24008036
+215,4,rivedoux plage,,,13/10/2020,False,16602461
+326,4,la flotte,,,13/10/2020,False,12734232
+127,3,la couarde sur mer,,,13/10/2020,False,39053278
+233,4,la flotte,,,13/10/2020,False,37009905
+469,5,la flotte,,4,13/10/2020,False,38939476
+294,3,la flotte,,3,13/10/2020,False,21344501
+231,3,la couarde sur mer,,,13/10/2020,False,33822917
+251,3,la flotte,,,13/10/2020,False,27218929
+336,4,le bois plage en re,,3,13/10/2020,False,33127310
+370,4,la flotte,,3,13/10/2020,False,36855003
+184,3,sainte marie de re,,1,13/10/2020,False,5832484
+385,4,le bois plage en re,,5,13/10/2020,False,32300208
+533,4,saint martin de re,,4,13/10/2020,False,34822614
+226,3,sainte marie de re,,,13/10/2020,False,35189093
+101,2,la flotte,,1,13/10/2020,False,32883656
+67,2,la flotte,,1,13/10/2020,False,31802574
+660,5,le bois plage en re,,4,13/10/2020,False,21742914
+467,4,sainte marie de re,,5,13/10/2020,False,1211378
+301,3,nieul sur mer,,5,13/10/2020,False,25453348
+179,4,,,,13/10/2020,False,40391657
+159,3,sainte marie de re,,,13/10/2020,False,31029748
+152,4,le bois plage en re,,4,13/10/2020,False,15862883
+355,3,sainte marie de re,,,13/10/2020,False,17179410
+295,5,sainte marie de re,,3,13/10/2020,False,15000319
+217,3,rivedoux plage,,1,13/10/2020,False,33131021
+254,3,sainte marie de re,,3,13/10/2020,False,18708964
+181,3,la flotte,,4,13/10/2020,False,23992053
+376,5,saint martin de re,,,13/10/2020,False,18927199
+318,4,la flotte,,3,13/10/2020,False,41956735
+259,4,la rochelle,,1,13/10/2020,False,34895735
+274,3,le bois plage en re,,1,13/10/2020,False,14060596
+684,6,saint martin de re,,5,13/10/2020,False,21728129
+236,4,rivedoux plage,,3,13/10/2020,False,42709937
+154,2,rivedoux plage,,1,13/10/2020,False,31656617
+460,5,sainte marie de re,,3,13/10/2020,False,42172687
+545,5,la flotte,,5,13/10/2020,False,35829263
+168,4,rivedoux plage,,4,13/10/2020,False,14888511
+237,3,sainte marie de re,,,13/10/2020,False,21994231
+562,5,la flotte,,4,13/10/2020,False,26211665
+358,3,loix,,,13/10/2020,False,18581635
+385,5,sainte marie de re,,,13/10/2020,False,19685590
+435,4,,,4,13/10/2020,False,18236993
+283,5,sainte marie de re,,3,13/10/2020,False,11598740
+418,5,la couarde sur mer,,4,13/10/2020,False,7176598
+282,4,rivedoux plage,,,13/10/2020,False,13397150
+293,3,le bois plage en re,,5,13/10/2020,False,23353670
+451,5,saint martin de re,,,13/10/2020,False,38745104
+378,5,sainte marie de re,,3,13/10/2020,False,29669043
+164,3,sainte marie de re,,,13/10/2020,False,3232178
+610,7,rivedoux plage,,6,13/10/2020,False,17001566
+369,3,sainte marie de re,,,13/10/2020,False,29877465
+881,6,saint martin de re,,5,13/10/2020,False,20600612
+301,4,l houmeau,,,13/10/2020,False,13964266
+355,3,rivedoux plage,,3,13/10/2020,False,13812715
+197,3,sainte marie de re,,,13/10/2020,False,40748352
+328,4,la rochelle,,3,13/10/2020,False,34712442
+301,4,l houmeau,,,13/10/2020,False,13964266
+138,4,la rochelle,,,13/10/2020,False,7447043
+369,3,sainte marie de re,,,13/10/2020,False,29877465
+164,3,sainte marie de re,,,13/10/2020,False,3232178
+881,6,saint martin de re,,5,13/10/2020,False,20600612
+405,4,le bois plage en re,,4,13/10/2020,False,21269304
+355,3,rivedoux plage,,3,13/10/2020,False,13812715
+197,3,sainte marie de re,,,13/10/2020,False,40748352
+274,5,,,3,13/10/2020,False,31428953
+542,5,la rochelle,,4,13/10/2020,False,27774687
+478,4,l houmeau,,5,13/10/2020,False,42241508
+412,5,la couarde sur mer,,4,13/10/2020,False,7197354
+"1,006",6,sainte marie de re,,6,13/10/2020,False,35798765
+348,5,sainte marie de re,,5,13/10/2020,False,28240132
+465,3,la flotte,,3,13/10/2020,False,5018017
+429,3,le bois plage en re,,,13/10/2020,False,15844141
+417,3,rivedoux plage,,3,13/10/2020,False,33343343
+308,4,la rochelle,,1,13/10/2020,False,25107472
+449,4,sainte marie de re,,3,13/10/2020,False,22441928
+391,3,rivedoux plage,,,13/10/2020,False,12256043
+111,3,rivedoux plage,,1,13/10/2020,False,42885442
+438,4,loix,,3,13/10/2020,False,3007671
+812,4,sainte marie de re,,3,13/10/2020,False,39165287
+264,5,loix,,5,13/10/2020,False,16119699
+318,5,le bois plage en re,,5,13/10/2020,False,12964045
+720,4,le bois plage en re,,,13/10/2020,False,13507125
+301,3,sainte marie de re,,3,13/10/2020,False,28533702
+316,4,sainte marie de re,,,13/10/2020,False,25654302
+288,3,sainte marie de re,,,13/10/2020,False,41898522
+"1,270",8,la flotte,,5,13/10/2020,False,28909955
+193,3,sainte marie de re,,,13/10/2020,False,1196922
+"1,504",6,le bois plage en re,,6,13/10/2020,False,586843
+306,3,le bois plage en re,,,13/10/2020,False,32638038
+259,3,sainte marie de re,,,13/10/2020,False,20086059
+615,5,rivedoux plage,,,13/10/2020,False,31922291
+589,3,la couarde sur mer,,4,13/10/2020,False,6727209
+211,3,la flotte,,3,13/10/2020,False,3311322
+430,3,la couarde sur mer,,,13/10/2020,False,29098962
+547,6,loix,,5,13/10/2020,False,21508247
+488,4,sainte marie de re,,,13/10/2020,False,24593561
+370,4,nieul sur mer,,3,13/10/2020,False,20423674
+326,4,sainte marie de re,,,13/10/2020,False,6442596
+111,3,rivedoux plage,,1,13/10/2020,False,42885442
+111,3,rivedoux plage,,1,13/10/2020,False,42216319
+327,5,la rochelle,,5,13/10/2020,False,24628461
+"1,170",7,sainte marie de re,,6,13/10/2020,False,40301127
+741,5,saint martin de re,,4,13/10/2020,False,33636418
+288,3,sainte marie de re,,,13/10/2020,False,41898522
+301,3,sainte marie de re,,3,13/10/2020,False,28533702
+490,3,,,,13/10/2020,False,23107308
+470,7,nieul sur mer,,4,13/10/2020,False,20636522
+318,5,le bois plage en re,,5,13/10/2020,False,12964045
+"1,006",6,le bois plage en re,,5,13/10/2020,False,18305081
+193,3,sainte marie de re,,,13/10/2020,False,1196922
+177,3,la couarde sur mer,,1,13/10/2020,False,10873866
+391,3,rivedoux plage,,,13/10/2020,False,12256043
+362,3,la couarde sur mer,,3,13/10/2020,False,11884365
+720,4,le bois plage en re,,,13/10/2020,False,13507125
+264,5,loix,,5,13/10/2020,False,16119699
+482,4,le bois plage en re,,,13/10/2020,False,42995578
+819,4,le bois plage en re,,5,13/10/2020,False,7126485
+702,5,rivedoux plage,,5,13/10/2020,False,6817965
+435,4,sainte marie de re,,3,13/10/2020,False,16573701
+767,5,la couarde sur mer,,3,13/10/2020,False,1358373
+544,3,la couarde sur mer,,,13/10/2020,False,1275210
+226,4,le bois plage en re,,,20/10/2020,False,18179034
+255,4,le bois plage en re,,,20/10/2020,False,25288920
+254,3,le bois plage en re,,3,20/10/2020,False,16857198
+156,3,sainte marie de re,,,20/10/2020,False,12976498
+119,2,loix,,3,20/10/2020,False,907453
+223,3,saint martin de re,,1,20/10/2020,False,22405941
+196,3,la couarde sur mer,,,20/10/2020,False,18991672
+268,5,le bois plage en re,,5,20/10/2020,False,36853426
+265,4,saint martin de re,,3,20/10/2020,False,42292241
+238,4,sainte marie de re,,,20/10/2020,False,25230937
+368,4,,,3,20/10/2020,False,13664992
+493,6,saint martin de re,,6,20/10/2020,False,33418725
+253,5,sainte marie de re,,3,20/10/2020,False,20478019
+259,4,sainte marie de re,,,20/10/2020,False,32103313
+193,3,le bois plage en re,,,20/10/2020,False,33759042
+159,4,la couarde sur mer,,,20/10/2020,False,24008036
+257,4,le bois plage en re,,3,20/10/2020,False,32852482
+488,4,saint martin de re,,,20/10/2020,False,12749062
+171,4,sainte marie de re,,,20/10/2020,False,19850715
+215,4,rivedoux plage,,,20/10/2020,False,16602461
+333,4,la flotte,,,20/10/2020,False,12734232
+215,4,rivedoux plage,,,20/10/2020,False,16602461
+519,5,la flotte,,4,20/10/2020,False,38939476
+193,4,sainte marie de re,,3,20/10/2020,False,12962979
+259,4,la rochelle,,1,20/10/2020,False,34895735
+179,4,,,,20/10/2020,False,40391657
+257,4,le bois plage en re,,3,20/10/2020,False,32852482
+232,3,la couarde sur mer,,,20/10/2020,False,33822917
+168,4,rivedoux plage,,4,20/10/2020,False,14888511
+223,3,saint martin de re,,1,20/10/2020,False,22405941
+77,2,la flotte,,1,20/10/2020,False,31802574
+533,4,saint martin de re,,4,20/10/2020,False,34822614
+269,3,la flotte,,5,20/10/2020,False,32834176
+478,4,l houmeau,,5,20/10/2020,False,42241508
+385,5,sainte marie de re,,,20/10/2020,False,19685590
+251,3,la flotte,,,20/10/2020,False,27218929
+467,4,sainte marie de re,,5,20/10/2020,False,1211378
+295,5,sainte marie de re,,3,20/10/2020,False,15000319
+221,4,nieul sur mer,,5,20/10/2020,False,26319444
+318,3,la flotte,,3,20/10/2020,False,21344501
+318,3,la flotte,,3,20/10/2020,False,21344501
+159,4,la couarde sur mer,,,20/10/2020,False,24008036
+184,3,sainte marie de re,,1,20/10/2020,False,5832484
+698,5,le bois plage en re,,4,20/10/2020,False,21742914
+164,3,sainte marie de re,,,20/10/2020,False,3232178
+355,3,sainte marie de re,,,20/10/2020,False,17179410
+238,3,,,3,20/10/2020,False,5302915
+236,4,rivedoux plage,,3,20/10/2020,False,42709937
+181,3,la flotte,,4,20/10/2020,False,23992053
+320,4,,,,20/10/2020,False,20782074
+881,6,saint martin de re,,5,20/10/2020,False,20600612
+282,4,rivedoux plage,,,20/10/2020,False,13397150
+322,5,,,3,20/10/2020,False,38472355
+542,5,la rochelle,,4,20/10/2020,False,27774687
+545,5,la flotte,,5,20/10/2020,False,35829263
+418,5,la couarde sur mer,,4,20/10/2020,False,7176598
+270,2,,,,20/10/2020,False,3278118
+562,5,la flotte,,4,20/10/2020,False,26211665
+139,4,la rochelle,,,20/10/2020,False,7447043
+159,3,sainte marie de re,,,20/10/2020,False,31029748
+684,6,saint martin de re,,5,20/10/2020,False,21728129
+274,3,le bois plage en re,,1,20/10/2020,False,14060596
+268,5,sainte marie de re,,3,20/10/2020,False,11598740
+236,4,rivedoux plage,,3,20/10/2020,False,42709937
+282,4,rivedoux plage,,,20/10/2020,False,13397150
+358,3,loix,,,20/10/2020,False,18581635
+237,3,sainte marie de re,,,20/10/2020,False,21994231
+385,5,sainte marie de re,,,20/10/2020,False,19685590
+562,5,la flotte,,4,20/10/2020,False,26211665
+435,4,,,4,20/10/2020,False,18236993
+418,5,la couarde sur mer,,4,20/10/2020,False,7176598
+451,5,saint martin de re,,,20/10/2020,False,38745104
+293,3,le bois plage en re,,5,20/10/2020,False,23353670
+378,5,sainte marie de re,,3,20/10/2020,False,29669043
+328,4,la rochelle,,3,20/10/2020,False,34712442
+164,3,sainte marie de re,,,20/10/2020,False,3232178
+527,5,sainte marie de re,,3,20/10/2020,False,42172687
+560,4,sainte marie de re,,3,20/10/2020,False,12807071
+610,7,rivedoux plage,,6,20/10/2020,False,17001566
+522,5,saint martin de re,,,20/10/2020,False,18927199
+355,3,rivedoux plage,,3,20/10/2020,False,13812715
+321,4,l houmeau,,,20/10/2020,False,13964266
+"1,006",6,sainte marie de re,,6,20/10/2020,False,35798765
+465,3,la flotte,,3,20/10/2020,False,5018017
+478,4,l houmeau,,5,20/10/2020,False,42241508
+348,5,sainte marie de re,,5,20/10/2020,False,28240132
+429,3,le bois plage en re,,,20/10/2020,False,15844141
+417,3,rivedoux plage,,3,20/10/2020,False,33343343
+449,4,sainte marie de re,,3,20/10/2020,False,22441928
+317,2,lagord,,1,20/10/2020,False,37264191
+162,3,la couarde sur mer,,1,20/10/2020,False,18485059
+644,6,le bois plage en re,,5,20/10/2020,False,3136842
+429,4,sainte marie de re,,,20/10/2020,False,3077929
+104,3,rivedoux plage,,1,20/10/2020,False,41807117
+387,4,sainte marie de re,,3,20/10/2020,False,5633867
+104,3,rivedoux plage,,1,20/10/2020,False,42725522
+458,5,rivedoux plage,,3,20/10/2020,False,40198678
+306,3,le bois plage en re,,,20/10/2020,False,32638038
+573,5,le bois plage en re,,4,20/10/2020,False,7745058
+259,3,sainte marie de re,,,20/10/2020,False,20086059
